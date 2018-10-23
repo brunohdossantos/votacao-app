@@ -20,4 +20,26 @@ Todas as ferramentas e tecnologias utilizadas para o desenvolvimento deste traba
  - **JQuery**
  - **Docker**
 
+# Instalação
+
+**1) Download do projeto** ![VIS_SAMPLE](https://github.com/myersBR/votacao-app/archive/latest.tar.gz)
+
+**2) Descompactar arquivo **
+
+**3) Acessar a pasta descompacta **
+
+**4) Criação da imagem **
+
+   - Após acessar a pasta compactada executaremos o comando **docker build -t "nomeDaImagem"**, onde o nomeDaImagem fica a critério para escolha
+   
+**4) Criação do container e execução da aplicação **
+
+   - Para a criação do container e a execução da aplicação utilizamos o comando **docker run -p "numeroDaPortaExterna":3000 -d "nomeDaImagem"**, onde o "nomeDaImagem é o mesmo que informamos no passo 4 e o parâmetro "numeroDaPortaExterna" é o número da porta que será utilizada para o redirecionamento para a porta 3000 da nossa aplicação.
+   
+
+    
+    
+   
+   
+
 
