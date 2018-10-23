@@ -22,7 +22,7 @@ Todas as ferramentas e tecnologias utilizadas para o desenvolvimento deste traba
 
 # Instalação #
 
-**1) Download do projeto** ![Download](https://github.com/myersBR/votacao-app/archive/latest.tar.gz)
+**1) Download do projeto** !(https://github.com/myersBR/votacao-app/archive/latest.tar.gz)
 
 **2) Descompactar arquivo**
 
@@ -38,7 +38,7 @@ Todas as ferramentas e tecnologias utilizadas para o desenvolvimento deste traba
    
 **5) Acessando a aplicação **
 
- - Após a execução dos passos acima podemos acessar a nossa aplicação no servidor através do endereço **localhost:numerodaPortaExterna**, e nas máquinas externas (clientes) através do endereço **enderecoip:numeroDaPortaExterna*.
+ - Após a execução dos passos acima podemos acessar a nossa aplicação no servidor através do endereço **localhost:numerodaPortaExterna**, e nas máquinas externas (clientes) através do endereço **enderecoip:numeroDaPortaExterna**.
    
 
     
