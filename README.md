@@ -1,14 +1,18 @@
 ﻿# Sistema de Votação em tempo real #
 
 
-[![Github-Release](https://img.shields.io/github/release/filoe/cscore.svg)](https://github.com/filoe/cscore/releases)
-[![NuGet-Release](https://img.shields.io/nuget/v/CSCore.svg)](https://www.nuget.org/packages/CSCore/)
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=N2ZU8PSBFEXPJ)
-[![Chat on gitter https://gitter.im/cscorelib/Lobby](https://badges.gitter.im/cscorelib/Lobby.svg)](https://gitter.im/cscorelib/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Github-Release](https://img.shields.io/github/release/filoe/cscore.svg)](https://github.com/myersBR/votacao-app/releases)
 
-[![NuGet-Release](https://img.shields.io/nuget/vpre/CSCore.Ffmpeg.svg?label=%22nuget%20CScore.Ffmpeg%22)](https://www.nuget.org/packages/CSCore.Ffmpeg/)
+Este trabalho apresenta uma implementação de um sistema de votação em tempo real em um ambiente cliente/servidor virtualizando ferramentas e tecnologias livres que foi desenvolvido como trabalho para a disciplina de Plataforma de Desenvolvimento em Software Livre e Servidores Web.
 
-CSCore is a free .NET audio library which is completely written in C#. Although it is still a rather young project, it offers tons of features like playing or capturing audio, en- or decoding many different codecs, effects and much more!
+# Introdução
+Geralmente nos sistemas web, a comunicação é realizada através de requisições do cliente para o servidor, ou seja, o servidor somente envia dados para o cliente somente quando é requisitado. Porém existe uma outra forma de comunicação entre eles que é a comunicação em tempo real, em que um servidor sempre envia dados atualizados para os clientes sem precisar de requisições.
+Portanto, o objetivo deste trabalho é demonstrar a comunicação em tempo real entre cliente e servidor utilizando um sistema de votação. A demonstração foi realizada em um ambiente virtualizado, sendo uma máquina virtual servidor e outra cliente. O servidor hospeda o sistema, que foi desenvolvido para este trabalho, e o cliente irá utilizá-lo.
+Todas as ferramentas e tecnologias utilizadas para o desenvolvimento deste trabalho são livres.
+Além da Introdução, este trabalho está composto pelos seguintes capítulos: Softwares e ferramentas utilizadas, Construção do ambiente virtual, Aplicação Web, Conclusão e Referências bibliográficas.
+
+
+
 
 CSCore is based on a very extensible architecture which allows you to make it fit to your needs without any major effort. You can build music players, voice chats, audio recorders and so on!
 
