@@ -6,7 +6,7 @@ app.get('/', function(req, res){
   res.sendFile(__dirname + '/index.html');
 });
 
-var candidatos = [{ candidato: 'Bolsonaro', votos: 0, vencedor: false}, { candidato: 'Haddad', votos: 0, vencedor:false}];
+var candidatos = [{ candidato: 'Fulano', votos: 0, vencedor: false}, { candidato: 'Beltrano', votos: 0, vencedor:false}];
 var maxVotos = 3;
 var qtdVotos = 0;
 
