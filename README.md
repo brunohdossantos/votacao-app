@@ -10,7 +10,7 @@ Geralmente nos sistemas web, a comunicação é realizada através de requisiç�
 Portanto, o objetivo deste trabalho é demonstrar a comunicação em tempo real entre cliente e servidor utilizando um sistema de votação. A demonstração foi realizada em um ambiente virtualizado, sendo uma máquina virtual servidor e outra cliente. O servidor hospeda o sistema, que foi desenvolvido para este trabalho, e o cliente irá utilizá-lo.
 Todas as ferramentas e tecnologias utilizadas para o desenvolvimento deste trabalho são livres.
 
-# Ferramentas Utilizadas
+# Ferramentas Utilizadas #
 
  - **Java Script**
  - **Node.js**
@@ -20,9 +20,9 @@ Todas as ferramentas e tecnologias utilizadas para o desenvolvimento deste traba
  - **JQuery**
  - **Docker**
 
-# Instalação
+# Instalação #
 
-**1) Download do projeto** ![VIS_SAMPLE](https://github.com/myersBR/votacao-app/archive/latest.tar.gz)
+**1) Download do projeto** ![Download](https://github.com/myersBR/votacao-app/archive/latest.tar.gz)
 
 **2) Descompactar arquivo **
 
