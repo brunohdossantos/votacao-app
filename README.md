@@ -36,7 +36,7 @@ Todas as ferramentas e tecnologias utilizadas para o desenvolvimento deste traba
 
    - Para a criação do container e a execução da aplicação utilizamos o comando **docker run -p numeroDaPortaExterna:3000 -d nomeDaImagem**, onde o "nomeDaImagem é o mesmo que informamos no passo 4 e o parâmetro "numeroDaPortaExterna" é o número da porta que será utilizada para o redirecionamento para a porta 3000 da nossa aplicação.
    
-**5) Acessando a aplicação **
+**5) Acessando a aplicação**
 
  - Após a execução dos passos acima podemos acessar a nossa aplicação no servidor através do endereço **localhost:numerodaPortaExterna**, e nas máquinas externas (clientes) através do endereço **enderecoip:numeroDaPortaExterna**.
    
