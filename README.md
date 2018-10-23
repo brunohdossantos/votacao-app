@@ -1,7 +1,7 @@
 ﻿# Sistema de Votação em tempo real #
 
 
-[![Github-Release](https://img.shields.io/github/release/filoe/cscore.svg)](https://github.com/myersBR/votacao-app/releases)
+[![Github-Release](1.0.0)](https://github.com/myersBR/votacao-app/releases)
 
 Este trabalho apresenta uma implementação de um sistema de votação em tempo real em um ambiente cliente/servidor virtualizando ferramentas e tecnologias livres que foi desenvolvido como trabalho para a disciplina de Plataforma de Desenvolvimento em Software Livre e Servidores Web.
 
