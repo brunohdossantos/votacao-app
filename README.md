@@ -30,11 +30,15 @@ Todas as ferramentas e tecnologias utilizadas para o desenvolvimento deste traba
 
 **4) Criação da imagem**
 
-   - Após acessar a pasta compactada executaremos o comando **docker build -t "nomeDaImagem"**, onde o nomeDaImagem fica a critério para escolha
+   - Após acessar a pasta compactada executaremos o comando **docker build -t nomeDaImagem**, onde o nomeDaImagem fica a critério para escolha
    
 **4) Criação do container e execução da aplicação**
 
-   - Para a criação do container e a execução da aplicação utilizamos o comando **docker run -p "numeroDaPortaExterna":3000 -d "nomeDaImagem"**, onde o "nomeDaImagem é o mesmo que informamos no passo 4 e o parâmetro "numeroDaPortaExterna" é o número da porta que será utilizada para o redirecionamento para a porta 3000 da nossa aplicação.
+   - Para a criação do container e a execução da aplicação utilizamos o comando **docker run -p numeroDaPortaExterna:3000 -d nomeDaImagem**, onde o "nomeDaImagem é o mesmo que informamos no passo 4 e o parâmetro "numeroDaPortaExterna" é o número da porta que será utilizada para o redirecionamento para a porta 3000 da nossa aplicação.
+   
+**5) Acessando a aplicação **
+
+ - Após a execução dos passos acima podemos acessar a nossa aplicação no servidor através do endereço **localhost:numerodaPortaExterna**, e nas máquinas externas (clientes) através do endereço **enderecoip:numeroDaPortaExterna*.
    
 
     
