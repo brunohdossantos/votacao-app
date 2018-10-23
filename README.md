@@ -22,7 +22,7 @@ Todas as ferramentas e tecnologias utilizadas para o desenvolvimento deste traba
 
 # Instalação #
 
-**1) Download do projeto** !(https://github.com/myersBR/votacao-app/archive/latest.tar.gz)
+**1) Download do projeto** ![Download](https://github.com/myersBR/votacao-app/archive/latest.tar.gz)
 
 **2) Descompactar arquivo**
 
