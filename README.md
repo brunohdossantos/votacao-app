@@ -1,9 +1,12 @@
 ﻿# Sistema de Votação em tempo real #
 
-
-[![Github-Release]](https://github.com/myersBR/votacao-app/releases)
-
 Este trabalho apresenta uma implementação de um sistema de votação em tempo real em um ambiente cliente/servidor virtualizando ferramentas e tecnologias livres que foi desenvolvido como trabalho para a disciplina de Plataforma de Desenvolvimento em Software Livre e Servidores Web.
+
+**Integrantes:**
+ - Angelo Morares Machiaveli
+ - Bruno Henrique dos Santos
+ - Kleber Ávila da Silva
+
 
 # Introdução #
 Geralmente nos sistemas web, a comunicação é realizada através de requisições do cliente para o servidor, ou seja, o servidor somente envia dados para o cliente somente quando é requisitado. (BORIN, 2018). 
